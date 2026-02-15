@@ -84,20 +84,10 @@ Site institucional desenvolvido como Projeto Integrador no Instituto da Oportuni
 
 ---
 
-### 📊 GitHub Stats
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raposito09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br)
+📫 **Aberto a oportunidades nas áreas de Suporte TI, Infraestrutura e Redes.**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raposito09&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
-
-</div>
-
----
-
-<div align="center">
-
-*Aberto a oportunidades nas áreas de Suporte TI, Infraestrutura e Redes.*
+Vamos conectar? Me chame no [LinkedIn](https://www.linkedin.com/in/seu-linkedin) ou envie um [e-mail](mailto:guilhermesants8965@gmail.com)!
 
 </div>
