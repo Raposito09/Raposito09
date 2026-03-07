@@ -18,7 +18,7 @@
 - 💼 **Jovem Aprendiz | Help Desk** na Foundever
 - 🔧 Atuando com suporte técnico de **1º e 2º nível**, gestão de incidentes e infraestrutura
 - ☁️ Estudando **AWS Cloud** e fundamentos de infraestrutura
-- 🏆 Finalista no **Hackathon QI Tech + Poli-USP**
+- 🏆 Entusiasta de Hackthons
 
 ---
 
